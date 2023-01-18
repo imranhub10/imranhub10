@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is AL Imran
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_images/1352143800496361474/rMK40vz0_400x400.jpg)
 
 I am a student I have already completed diploma engineering. I am a web developer. My hobby is machine learning. I am learning python. I want to become a software engineer.
 
